@@ -18,10 +18,12 @@
 
  
 
-<!-- <[Snake animation](https://github.com/Alabarse/Alabarse/blob/output/github-contribution-grid-snake.svg) -->
+<!-- <[Snake animation](https://github.com/Alabarse/Alabarse/blob/output/github-contribution-grid-snake.svg) // ![snake gif] (https://github.com/Alabarse/Alabarse/blob/output/github-contribution-grid-snake.gif)-->
 
-  ![snake gif](https://github.com/Alabarse/Alabarse/blob/output/github-contribution-grid-snake.gif)
   
+  
+ <img src="https://github.com/Alabarse/Alabarse/raw/output/github-contribution-grid-snake.svg" alt="mishmanners snake gif" style="max-width: 100%;">
+ 
 <!--
 **Alabarse/Alabarse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
