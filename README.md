@@ -26,8 +26,15 @@
 </div>
 
 <!-- <[Snake animation](https://github.com/Alabarse/Alabarse/blob/output/github-contribution-grid-snake.svg) // ![snake gif] (https://github.com/Alabarse/Alabarse/blob/output/github-contribution-grid-snake.gif)-->
-
-  
+<br/>
+ <br/>
+ <div>
+ 📫 How to reach me:
+ <br/>
+<a href="mailto:mateusalabarse@hotmail.com"><img 
+src="https://camo.githubusercontent.com/19506d2982a48e8878022aa4f9130f4b02669e3cf8fa9999fc6f3ae2f70570f5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4f75746c6f6f6b2d3030373864343f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6963726f736f66742d6f75746c6f6f6b266c6f676f436f6c6f723d7768697465"></a>
+  <a href="https://www.linkedin.com/in/mateus-alabarse-5168611a3/"><img src="https://camo.githubusercontent.com/c00f87aeebbec37f3ee0857cc4c20b21fefde8a96caf4744383ebfe44a47fe3f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d2532333030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465"/></a>
+</div>
   
  <img src="https://github.com/Alabarse/Alabarse/raw/output/github-contribution-grid-snake.svg" alt="mishmanners snake gif" style="max-width: 100%;">
  
