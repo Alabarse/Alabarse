@@ -21,7 +21,7 @@
  <div style="display:flex;">
 <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Alabarse&theme=react&line_height=40&hide=css"/>
   <br/>
-  <img align="right" height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Alabarse&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
+  <img  height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Alabarse&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
 </div>
 
 <!-- <[Snake animation](https://github.com/Alabarse/Alabarse/blob/output/github-contribution-grid-snake.svg) // ![snake gif] (https://github.com/Alabarse/Alabarse/blob/output/github-contribution-grid-snake.gif)-->
