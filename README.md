@@ -1,13 +1,13 @@
-# Hello! Welcome to my Github profile. 👋
-
-
-## My name is Mateus Alabarse, i'm a Back-end Developer! 🧙‍♂️
-
-
-### ⚙️ I currently work in the field of international trade.
+### Hello! Welcome to my Github profile. 👋
 <br/>
 
-### 💬 I have 20 years old, i'm from SÃO PAULO passionate about programming since adolescence when this passion was focused on games. 
+#### My name is Mateus Alabarse, i'm a Back-end Developer! 🧙‍♂️
+<br/>
+
+#### ⚙️ I currently work in the field of international trade.
+<br/>
+
+#### 💬 I have 20 years old, i'm from SÃO PAULO passionate about programming since adolescence when this passion was focused on games. 
 <br/>
 
 ### 🖥️ Technologies and frameworks
