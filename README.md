@@ -7,7 +7,7 @@
 ### ⚙️ I currently work in the field of international trade.
 <br/>
 
-#### 💬 I have 20 years old, i'm from SÃO PAULO passionate about programming since adolescence when this passion was focused on games. 
+#### 💬 I have 20 years old, i'm from SÃO PAULO passionate about programming since adolescence when this passion was focused on game development. 
 <br/>
 
 ### 🖥️ Technologies and frameworks
