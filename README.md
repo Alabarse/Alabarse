@@ -29,9 +29,9 @@
  <br/>
  <div>
  📫 How to reach me:
- <br/>=
+ <br/>
 <a href="mailto:mateusalabarse@hotmail.com"><img 
-src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" width="40" height="40">&nbsp;<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
   
  <img src="https://github.com/Alabarse/Alabarse/raw/output/github-contribution-grid-snake.svg" alt="mishmanners snake gif" style="max-width: 100%;">
