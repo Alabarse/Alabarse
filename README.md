@@ -34,7 +34,11 @@
 src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
   
- <img src="https://github.com/Alabarse/Alabarse/raw/output/github-contribution-grid-snake.svg" alt="mishmanners snake gif" style="max-width: 100%;">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
  
 <!--
 **Alabarse/Alabarse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
