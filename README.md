@@ -26,12 +26,14 @@
  <div>
  📫 How to reach me:
  <br/>
-<a href="mailto:mateusalabarse@hotmail.com"><img 
-src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+ <a href="mailto:mateusalabarse@hotmail.com">
+  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
+ </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/mateus-alabarse-5168611a3/">
+   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </div>
-  
-![snake.gif](https://github.com/Alabarse/Alabarse/blob/output/github-contribution-grid-snake.svg)
- 
 <!--
 **Alabarse/Alabarse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
