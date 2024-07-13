@@ -1,16 +1,12 @@
-# Hello! Welcome to my Github profile.
-<br/>
+# Hello! Welcome to my GitHub profile.
 
-## My name is Mateus Alabarse, i'm a Back-end Developer!
-<br/>
+## My name is Mateus Alabarse, and I'm a Back-end Developer!
 
-### ⚙️ I currently work as Angular developer.
-<br/>
+### 🌟 Currently, I work as an Angular Developer.
 
-#### I have 21 years old, i'm from SÃO PAULO passionate about programming since adolescence when this passion was focused on game development. 
-<br/>
+#### I’m 22 years old and based in São Paulo. My passion for programming started in my adolescence, originally focused on game development.
 
-### 🖥️ Technologies and frameworks
+### 🖥️ Technologies and Frameworks
 
 <div>
  <kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"  height="40"/></kbd> <kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="40" height="40" /></kbd> <kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40" /></kbd> <kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></kbd> <kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/></kbd> <kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" width="40" height="40"/></kbd> <kbd><img src="https://skillicons.dev/icons?i=lua width="40" height="40"/></kbd>  <kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="40" height="40"/></kbd> <kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/></kbd>  <kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/></kbd><kbd><img src="https://skillicons.dev/icons?i=angular" width="40" height="40"/></kbd>
