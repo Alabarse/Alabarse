@@ -2,7 +2,7 @@
 
 ## My name is Mateus Alabarse, and I'm a Full-stack Developer!
 
-### 🌟 Currently, I work as an Angular/Ionic and C# Developer.
+### 🌟 Currently, I'm working as an Angular/Ionic and C# Developer.
 
 #### I’m 23 years old and living in São Paulo. My passion for programming started in my adolescence, originally focused on game development.
 
