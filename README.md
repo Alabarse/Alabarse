@@ -1,10 +1,10 @@
 # Hello! Welcome to my GitHub profile.
 
-## My name is Mateus Alabarse, and I'm a Back-end Developer!
+## My name is Mateus Alabarse, and I'm a Full-stack Developer!
 
-### 🌟 Currently, I work as an Angular Developer.
+### 🌟 Currently, I work as an Angular/Ionic and C# Developer.
 
-#### I’m 22 years old and based in São Paulo. My passion for programming started in my adolescence, originally focused on game development.
+#### I’m 23 years old and living in São Paulo. My passion for programming started in my adolescence, originally focused on game development.
 
 ### 🖥️ Technologies and Frameworks
 
